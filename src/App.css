@@ -8,7 +8,6 @@ body {
   background:radial-gradient(ellipse at center, #8b0000 0%, #1a0000 40%, #000000 100%);
   font-family: "Segoe UI", sans-serif;
   color: #e0e0e0;
-  overflow: hidden;
   min-height: 100vh;
 }
 
