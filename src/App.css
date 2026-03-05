@@ -5,7 +5,7 @@
 }
 
 body {
-  background: radial-gradient(circle,rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
+  background:radial-gradient(ellipse at center, #8b0000 0%, #1a0000 40%, #000000 100%);
   font-family: "Segoe UI", sans-serif;
   color: #e0e0e0;
   overflow: hidden;
@@ -21,7 +21,7 @@ body {
 .titulo-principal {
   text-align: center;
   font-size: 40px;
-  color: #33006F;
+  color: #ffffffb9;
   margin-bottom: 40px;
   letter-spacing: 2px;
   font-weight: 900;
@@ -52,7 +52,7 @@ body {
 
 .tarjeta-titulo {
   font-size: 1.3rem;
-  color: #1d1160;
+  color: #000000;
 }
 
 .tarjeta-info {
