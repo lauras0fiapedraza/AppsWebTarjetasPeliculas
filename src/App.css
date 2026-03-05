@@ -74,12 +74,12 @@ body {
 
 .badge-verde {
   background-color: #1a3a1a;
-  color: #4caf50;
+  color: #c0ffda;
   border: 1px solid #4caf50;
 }
 
 .badge-rojo {
   background-color: #3a1a1a;
-  color: #f44336;
+  color: #ff9393;
   border: 1px solid #f44336;
 }
