@@ -3,12 +3,12 @@
 
 import peliculas from "./data/peliculas.js";
 import TarjetaPelicula from "./components/TarjetaPelicula";
-import "./App.js";
+import "./App.css";
 
 function App() {
   return (
     <div className="app">
-      <h1 className="titulo-principal">Lista de Películas</h1>
+      <h1 className="titulo-principal">Cine Estelar</h1>
 
       <div className="grid">
         {/*se recorre el array de peliculas con map retornando un componente. la prop

@@ -5,7 +5,7 @@ const peliculas = [
         titulo: "Interstellar",
         anio: 2014,
         genero: "ciencia ficcion",
-        calificación: 9.2,
+        calificacion: 9.9,
         disponible: true,
     },
     {
@@ -34,7 +34,7 @@ const peliculas = [
     },
     {
         id: 5,
-        titulo: "Forrest Gump",
+        titulo: "Forest Gump",
         anio: 1994,
         genero: "Drama",
         calificacion: 8.8,
